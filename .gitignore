@@ -1,0 +1,19 @@
+# Dependencies
+node_modules/
+
+# PDF build intermediates
+pdf-build/document.html
+pdf-build/*.png
+
+# OS files
+Thumbs.db
+Desktop.ini
+.DS_Store
+
+# Editor
+.vscode/
+.idea/
+
+# Env / secrets
+.env
+.env.local
